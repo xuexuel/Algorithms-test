@@ -5,7 +5,7 @@
  * @Date: 2020-12-17 19:41:12
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-19 16:34:30
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\test_stack.js
+ * @FilePath: \vue-martd:\Algorithms\Algorithms\test_stack.js
  */
 
 // 引入Stack方法

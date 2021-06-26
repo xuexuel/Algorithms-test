@@ -5,7 +5,7 @@
  * @Date: 2020-12-21 12:31:50
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-21 14:12:59
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\tree\tree.js
+ * @FilePath: \vue-martd:\Algorithms\Algorithms\tree\tree.js
  */
 const Stack = require('../stack/my_stack')
 let BinTreeNode = function (data) {

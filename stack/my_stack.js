@@ -5,7 +5,7 @@
  * @Date: 2020-12-20 15:51:30
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-21 13:34:40
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\stack\my_stack.js
+ * @FilePath: \vue-martd:\Algorithms\Algorithms\stack\my_stack.js
  */
 
 

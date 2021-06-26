@@ -5,7 +5,7 @@
  * @Date: 2020-12-21 14:05:44
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-21 14:12:36
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\tree\pre_order.js
+ * @FilePath: \vue-martd:\Algorithms\Algorithms\tree\pre_order.js
  */
 
 // 使用非递归方式实现前序遍历

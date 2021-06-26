@@ -5,7 +5,7 @@
  * @Date: 2020-12-20 15:33:25
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-20 15:45:01
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\队列\yanghui.js
+ * @FilePath: \vue-martd:\Algorithms\Algorithms\队列\yanghui.js
  */
 
  // 引入Queue方法

@@ -5,7 +5,7 @@
  * @Date: 2020-12-17 22:23:21
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-20 15:55:44
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\栈\infix_stack.js
+ * @FilePath: \vue-martd:\Algorithms\Algorithms\栈\infix_stack.js
  */
 
 

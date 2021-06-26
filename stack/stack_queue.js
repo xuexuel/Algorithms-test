@@ -5,7 +5,7 @@
  * @Date: 2020-12-20 15:53:16
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-20 15:53:40
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\栈\stack_queue.js
+ * @FilePath: \vue-martd:\Algorithms\Algorithms\栈\stack_queue.js
  */
 // 引入Stack方法
 Stack = require('./my_stack')

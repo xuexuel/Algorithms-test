@@ -5,7 +5,7 @@
  * @Date: 2020-12-20 15:34:03
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-20 15:45:25
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\队列\my_queue.js
+ * @FilePath: \vue-martd:\Algorithms\Algorithms\队列\my_queue.js
  */
 function Queue() {
     let items = [];  // 存储数据

@@ -5,7 +5,7 @@
  * @Date: 2020-12-21 14:03:10
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-21 14:08:55
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\tree\mirror.js
+ * @FilePath: \vue-martd:\Algorithms\Algorithms\tree\mirror.js
  */
 
  //求一棵树的镜像(普通模式)

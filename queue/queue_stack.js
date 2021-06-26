@@ -5,7 +5,7 @@
  * @Date: 2020-12-20 15:50:36
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-20 15:51:02
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\队列\queue_stack.js
+ * @FilePath: \vue-martd:\Algorithms\Algorithms\队列\queue_stack.js
  */
 
 // 引入Queue方法
