@@ -5,7 +5,6 @@
  * @Date: 2020-12-20 16:02:28
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-20 16:03:13
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\链表\reverse.js
  */
 var Node = function (data) {
   this.data = data;

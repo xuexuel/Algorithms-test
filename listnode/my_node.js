@@ -5,7 +5,6 @@
  * @Date: 2020-12-20 15:58:51
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-20 15:59:32
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\链表\my_node.js
  */
 
 function LinkList() {

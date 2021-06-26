@@ -7,7 +7,6 @@
  * @Date: 2020-12-23 19:35:25
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-23 19:35:50
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\堆\remove.js
  */
 //删除最小值
 (void 0).remove_min = function () {

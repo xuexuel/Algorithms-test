@@ -5,7 +5,6 @@
  * @Date: 2020-12-20 16:58:49
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-20 16:59:13
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\图\test.js
  */
 // 已知有n个整数，这些整数的范围是[0,100]，
 // 请你设计一种数据结构，使用数组存储这些数据，

@@ -7,7 +7,6 @@
  * @Date: 2020-12-23 18:55:39
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-23 19:57:15
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\heap\index.js
  */
 function MinHeap() {
   var shif_down = function shif_down(start, m) {

@@ -5,7 +5,6 @@
  * @Date: 2020-12-20 16:01:00
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-20 16:01:01
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\链表\node_stack.js
  */
 LinkList = require('./my_node')
 

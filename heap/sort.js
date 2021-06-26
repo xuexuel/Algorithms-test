@@ -5,7 +5,6 @@
  * @Date: 2020-12-23 19:57:58
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-23 19:59:04
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\heap\sort.js
  */
 // 可以使用最小堆进行排序，使用待排序数组初始化最小堆，然后逐个删除堆顶元素，由于堆顶元素始终最小，所以可以得到一个有序的数组
 const MinHeap = require('./index')

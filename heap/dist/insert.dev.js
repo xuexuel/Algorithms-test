@@ -7,7 +7,6 @@
  * @Date: 2020-12-23 19:27:34
  * @LastEditors: liyue
  * @LastEditTime: 2020-12-23 19:27:41
- * @FilePath: \vue-martd:\a_study\DEV\kaikeba\Algorithms\Algorithms\堆\insert.js
  */
 var shif_up = function shif_up(start) {
   var child_index = start; // 当前节点是叶节点
